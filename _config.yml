@@ -84,8 +84,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 title: "星辰大海" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "星辰大海 是jakcky的基于Jekyll的Blog" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.speedupme.com" # Site url, also used in jekyll-seo-tag
+description: "代码如诗，星辰大海" # Site description and default description, also used in jekyll-seo-tag
+url: "http://blog.speedupme.com" # Site url, also used in jekyll-seo-tag
 # repo: "https://github.com/daviddarnes/alembic"
 email: "case2111@gmail.com"
 # disqus: "daviddarnes"
@@ -99,7 +99,7 @@ navigation_header:
   # Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by Jacky chen: https://www.speedupme.com/blog
+  Power by Jekyll: http://blog.speedupme.com/blog
 #
 # social_links:
 #   Twitter: https://twitter.com/DavidDarnes
